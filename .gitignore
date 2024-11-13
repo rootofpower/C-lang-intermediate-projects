@@ -1,0 +1,9 @@
+#Ignore all object and output files(.o)
+
+*.o
+*.out
+
+#Ignore folder tests
+
+ps1/tests
+
